@@ -1,0 +1,31 @@
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\bin\Debug\hasta_takip.exe
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\bin\Debug\hasta_takip.pdb
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Form1.resources
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Properties.Resources.resources
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.exe
+c:\users\sinan\documents\visual studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.pdb
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Yeni_Randevu.resources
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.RandevuIptal.resources
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Muayene.resources
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Muayene_Islemleri.resources
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Sikayet.resources
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Bulgu.resources
+C:\Users\Sinan\Documents\Visual Studio 2010\Projects\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Tani.resources
+C:\Users\Sinan\Desktop\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.exe
+C:\Users\Sinan\Desktop\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.pdb
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.exe
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.pdb
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Bulgu.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Form1.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Muayene.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Muayene_Islemleri.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.RandevuIptal.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Sikayet.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Tani.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\hasta_takip.Yeni_Randevu.resources
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Seagate\dersler\4.Sınıf_1.Dönem\VT(455)\hasta_takip\hasta_takip\obj\x86\Debug\GenerateResource.write.1.tlog

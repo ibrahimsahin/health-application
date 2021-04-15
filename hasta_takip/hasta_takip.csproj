@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{997F343B-4449-4D74-8564-845AC396B87F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hasta_takip</RootNamespace>
+    <AssemblyName>hasta_takip</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bulgu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bulgu.Designer.cs">
+      <DependentUpon>Bulgu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muayene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muayene.Designer.cs">
+      <DependentUpon>Muayene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muayene_Islemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muayene_Islemleri.Designer.cs">
+      <DependentUpon>Muayene_Islemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuIptal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuIptal.Designer.cs">
+      <DependentUpon>RandevuIptal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sikayet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sikayet.Designer.cs">
+      <DependentUpon>Sikayet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tani.Designer.cs">
+      <DependentUpon>Tani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yeni_Randevu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yeni_Randevu.Designer.cs">
+      <DependentUpon>Yeni_Randevu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bulgu.resx">
+      <DependentUpon>Bulgu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muayene.resx">
+      <DependentUpon>Muayene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muayene_Islemleri.resx">
+      <DependentUpon>Muayene_Islemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuIptal.resx">
+      <DependentUpon>RandevuIptal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sikayet.resx">
+      <DependentUpon>Sikayet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tani.resx">
+      <DependentUpon>Tani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yeni_Randevu.resx">
+      <DependentUpon>Yeni_Randevu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\jpg\fon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\jpg\muayene.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\jpg\stethoscope-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\jpg\note-edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
